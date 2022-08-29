@@ -5,6 +5,8 @@ I also know Node, Express, Sequelize, SQL.
 
 I really want to learn and keep improving as a programmer.
 
+You can also check my profile --> www.marianodev.com
+
 Thank you for reading.
 
 
