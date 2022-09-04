@@ -12,7 +12,28 @@
   
 </div>
 
+h1 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
 
+@keyframes myanimation {
+  from {
+    color: red;
+  }
+  to {
+    color: yellow;
+  }
+}
+
+<section id="main">
+  <div id="left">
+    <asp:ContentPlaceHolder ID="left" runat="server" />
+  </div>
+  <div id="right">
+    <asp:ContentPlaceHolder ID="right" runat="server" />
+  </div>
+</section>
 
 ### Hi there 👋 
 I'M MARIANO ALVAREZ, I started my career as a developer relatively recently, although I've always been interested in programming, I'm waiting to start working and improve my skills.
