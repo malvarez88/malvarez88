@@ -9,6 +9,10 @@ You can also check my profile --> www.marianodev.com
 
 Thank you for reading.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 <!--
 **malvarez88/malvarez88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
