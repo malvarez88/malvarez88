@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+
+
+
+
 ### Hi there 👋 
 I'M MARIANO ALVAREZ, I started my career as a developer relatively recently, although I've always been interested in programming, I'm waiting to start working and improve my skills.
 I am a full stack developer, with strong bases in React & React Native.
@@ -13,11 +17,11 @@ You can also check my profile --> www.marianodev.com
 
 Thank you for reading.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="footer" align="center">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
 </div>
 
-
+https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif
 <!--
 **malvarez88/malvarez88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
