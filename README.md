@@ -6,34 +6,13 @@
   <a href="https://www.linkedin.com/in/malvarez88/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  </div>
-  <div id="badges" align='center'>
+ </div>
+ 
+ <div id="badges" align='center'>
   <img src="https://komarev.com/ghpvc/?username=malvarez88&style=flat-square&color=blue" alt=""/>
   
 </div>
 
-h1 {
-  color: red;
-  animation: myanimation 2s infinite;
-}
-
-@keyframes myanimation {
-  from {
-    color: red;
-  }
-  to {
-    color: yellow;
-  }
-}
-
-<section id="main">
-  <div id="left">
-    <asp:ContentPlaceHolder ID="left" runat="server" />
-  </div>
-  <div id="right">
-    <asp:ContentPlaceHolder ID="right" runat="server" />
-  </div>
-</section>
 
 ### Hi there 👋 
 I'M MARIANO ALVAREZ, I started my career as a developer relatively recently, although I've always been interested in programming, I'm waiting to start working and improve my skills.
