@@ -13,14 +13,12 @@
   </div>
 </div>
  
- <h1>
-  hey there
-  <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="30px"/>
-</h1>
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="600" height="300"/>
 </div>
 
 I'M MARIANO ALVAREZ, I started my career as a developer relatively recently, although I've always been interested in programming, I'm waiting to start working and improve my skills.
