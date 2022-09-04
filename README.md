@@ -31,9 +31,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working on some personal projects and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I excercice my body and my mind.
 
 - 🌱 www.marianodev.com
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 
 Thank you for reading.
