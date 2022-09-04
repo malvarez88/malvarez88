@@ -17,6 +17,9 @@
 
 
 ### Hi there 👋 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 I'M MARIANO ALVAREZ, I started my career as a developer relatively recently, although I've always been interested in programming, I'm waiting to start working and improve my skills.
 I am a full stack developer, with strong bases in React & React Native.
 I also know Node, Express, Sequelize, SQL.
