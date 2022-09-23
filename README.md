@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working on some personal projects and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I excercice mind, trying to improve my soft skills. I also play the drums and do calisthenics.
+- :zap: In my free time, I excercice mind, trying to improve my soft skills. I also play the drums and practice calisthenics.
 
 - 🌱 www.marianodev.com
 
