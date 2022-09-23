@@ -33,11 +33,11 @@ I'M MARIANO ALVAREZ.
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Buenos Aires, Argentina.
 
-- :telescope: I’m working on some personal projects and contributing to frontend and backend for building web applications.
+- :telescope: Currently lerarning Web3. Javascript /  Solidity. 
 
 - :zap: In my free time, I excercice mind, trying to improve my soft skills. I also play the drums and practice calisthenics.
 
-- 🌱 www.marianodev.com
+- 🌱 Working on some personal projects and contributing to frontend and backend for building web applications.
 
 ---
 
