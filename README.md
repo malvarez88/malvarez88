@@ -33,7 +33,7 @@ I'M MARIANO ALVAREZ.
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Buenos Aires, Argentina.
 
-- :telescope: Currently learning Web3. Javascript /  Solidity. 
+- :telescope: Currently learning Web3.js
 
 - :zap: In my free time, I excercice mind, trying to improve my soft skills. I also play the drums and practice calisthenics.
 
