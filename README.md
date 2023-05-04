@@ -33,7 +33,7 @@ I'M MARIANO ALVAREZ.
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Buenos Aires, Argentina.
 
-- :telescope: Currently learning Python & Web3.js
+- :telescope: Currently perfecting my javascript & css skills
 
 - :zap: In my free time, I excercice mind, trying to improve my soft skills. I also play the drums and practice calisthenics.
 
