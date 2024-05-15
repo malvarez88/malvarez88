@@ -32,6 +32,7 @@
 I'M MARIANO ALVAREZ.
 
 <a href="www.marianodev.com" target="_blank"> Check my portfolio</a>
+https://www.marianodev.com
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Buenos Aires, Argentina.
 
